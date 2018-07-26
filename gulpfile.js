@@ -1,6 +1,3 @@
-/**
- * Created by pharaoh on 18/12/2017.
- */
 
 'use strict';
 const gulp = require('gulp');
