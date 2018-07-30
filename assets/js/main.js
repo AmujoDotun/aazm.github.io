@@ -1,9 +1,4 @@
-/*
- * Cocoon -  Portfolio html  Template
- * Build Date: december 2017
- * Author: colorlib
- * Copyright (C) 2018 colorlib
- */
+
  /* ------------------------------------- */
 /*  TABLE OF CONTENTS
  /* ------------------------------------- */
@@ -358,7 +353,6 @@ $(document).ready(function() {
             position: new google.maps.LatLng(lattuide, longtuided),
             map: map,
             icon: 'assets/img/map-icon.png',
-            title: 'cocoon!'
         });
     }
 
